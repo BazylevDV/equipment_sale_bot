@@ -1,0 +1,33 @@
+2025-01-31 22:09:16,592 - INFO - Бот включен
+2025-01-31 22:09:16,996 - INFO - Start polling
+2025-01-31 22:09:17,080 - INFO - Run polling for bot @medsales_bot id=7223273545 - 'Paritetbot'
+2025-01-31 22:09:22,963 - INFO - Пользователь 312948899 начал взаимодействие с ботом
+2025-01-31 22:09:23,683 - INFO - Update id=278379368 is handled. Duration 717 ms by bot id=7223273545
+2025-01-31 22:09:25,608 - INFO - Запрос на КП получен
+2025-01-31 22:09:25,910 - INFO - Update id=278379369 is handled. Duration 297 ms by bot id=7223273545
+2025-01-31 22:09:38,138 - INFO - Update id=278379370 is handled. Duration 108 ms by bot id=7223273545
+2025-01-31 22:09:42,634 - INFO - Update id=278379371 is handled. Duration 125 ms by bot id=7223273545
+2025-01-31 22:09:48,250 - INFO - Update id=278379372 is handled. Duration 266 ms by bot id=7223273545
+2025-01-31 22:09:59,652 - INFO - Update id=278379373 is handled. Duration 125 ms by bot id=7223273545
+2025-01-31 22:10:10,207 - INFO - Update id=278379374 is handled. Duration 702 ms by bot id=7223273545
+2025-01-31 22:10:12,848 - INFO - Нажата кнопка менеджера: Ковач Александр
+2025-01-31 22:10:13,915 - INFO - Данные менеджера обновлены: Ковач Александр
+2025-01-31 22:10:13,916 - INFO - Отправка письма на lab_paritet@mail.ru с темой: Запрос на получение КП на оборудование от Paritetbot
+2025-01-31 22:10:17,544 - INFO - Письмо успешно отправлено на lab_paritet@mail.ru
+2025-01-31 22:10:17,545 - INFO - Email sent to lab_paritet@mail.ru with subject: Запрос на получение КП на оборудование от Paritetbot
+2025-01-31 22:10:17,546 - INFO - Отправка письма на dmbazylev@ya.ru с темой: Запрос на получение КП на оборудование от Paritetbot
+2025-01-31 22:10:20,091 - INFO - Письмо успешно отправлено на dmbazylev@ya.ru
+2025-01-31 22:10:20,092 - INFO - Email sent to dmbazylev@ya.ru with subject: Запрос на получение КП на оборудование от Paritetbot
+2025-01-31 22:10:21,570 - INFO - Сообщения успешно отправлены пользователю
+2025-01-31 22:10:21,570 - INFO - Update id=278379375 is handled. Duration 8733 ms by bot id=7223273545
+2025-01-31 22:10:38,812 - INFO - Polling stopped
+2025-01-31 22:10:39,064 - INFO - Polling stopped for bot @medsales_bot id=7223273545 - 'Paritetbot'
+2025-01-31 22:10:39,066 - INFO - Бот выключен
+СЊРјР° РЅР° dmbazylev@ya.ru СЃ С‚РµРјРѕР№: Р—Р°РїСЂРѕСЃ РЅР° РїРѕР»СѓС‡РµРЅРёРµ РљРџ РЅР° РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ РѕС‚ Paritetbot
+2025-01-31 22:10:20,091 - email_utils - INFO - РџРёСЃСЊРјРѕ СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅРѕ РЅР° dmbazylev@ya.ru
+2025-01-31 22:10:20,092 - app.handlers.request_kp_handlers - INFO - Email sent to dmbazylev@ya.ru with subject: Р—Р°РїСЂРѕСЃ РЅР° РїРѕР»СѓС‡РµРЅРёРµ РљРџ РЅР° РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ РѕС‚ Paritetbot
+2025-01-31 22:10:21,570 - app.handlers.request_kp_handlers - INFO - РЎРѕРѕР±С‰РµРЅРёСЏ СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»СЋ
+2025-01-31 22:10:21,570 - aiogram.event - INFO - Update id=278379375 is handled. Duration 8733 ms by bot id=7223273545
+2025-01-31 22:10:38,812 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 22:10:39,064 - aiogram.dispatcher - INFO - Polling stopped for bot @medsales_bot id=7223273545 - 'Paritetbot'
+2025-01-31 22:10:39,066 - root - INFO - Р‘РѕС‚ РІС‹РєР»СЋС‡РµРЅ
